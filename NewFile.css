@@ -1,0 +1,19 @@
+@CHARSET "ISO-8859-1";
+.pq 
+{
+	color:red;
+	float:right;
+}
+body 
+{
+	background-color:blue;
+}
+#pierre
+{
+	color:yellow;
+}
+#Hello
+{
+	color:green;
+	background:orange;
+}
